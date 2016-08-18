@@ -1,1 +1,1 @@
-#Make a smaller Onia Tree
+#Make an Onia Tree smaller
