@@ -1,4 +1,4 @@
-void OniaTreeDebigulator()
+void TreeDebigulator()
 {
   TString nameOfTree = "hionia/myTree";
   TTree* tree = (TTree*) _file0->Get(nameOfTree);
